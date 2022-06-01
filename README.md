@@ -1,5 +1,12 @@
 # fuarix_cSharp
 <img src="https://github.com/Judy-Nkwama/fuarix_cSharp/blob/main/Screenshot%20(158).png" /></br>
+
+# Installation 
+1- Import fuar_veri_tabani.sql database from repo to your MySQL. You can name that db as "fuar_veri_tabani" ;</br>
+2- In the solution folder Go to DigerSiniflar -> SQL.cs ;</br>
+3- Right at the top set the password of the connection methode to the one you use in your local MySQL;</br>
+4- Add your own information to the "yoneticiler" table of "fuar_veri_tabani" db and try to connect to fuarix from login page</br>
+
 <h2>FUARIX FUAR / KONFERANS SALONU OTOMASYONU</h2>
 
 Otomasyonumuz; sempozyum, konferans, seminer, kongre ve forum gibi, katılımcıların katılması dahilinde gerçekleşen etkinliklere göz atma, haklarında bilgi sahibi olma ve programa üye olunma dahilinde istenilen etkinliğe bilet alınmasını sağlamaktadır.</br>
@@ -26,13 +33,5 @@ Veritabanına önceden eklemiş olduğumuz 9 üye olduğu için, Sisteme Giriş 
 Bahsettiğimiz verilere, formun .cs dosyasına eklediğimiz Sorgular sınıfından çağrılan oku metoduna gönderdiğimiz sql cümleleri ile erişmekteyiz.
 Konuşmacılar</br>
 Veritabanına daha önceden kaydetmiş olduğumuz bazı konuşmacılar eklediğimiz sql cümleleri ile programa sağlanmaktadır. Her konuşmacının özellikleri, veritabanımızdaki 'konusmacilar' tablosundan çekilmekte olup programa yeni bir konuşmacı eklediğimizde, veritabanındaki bu tabloya ilgili alanlar ile kaydedilir. Her konuşmacının kendi id'si, ad, soyad, email, telefon ve diğer ayrıntılı bilgileri yer almaktadır. Bahsettiğimiz verilere, formun .cs dosyasına eklediğimiz Sorgular sınıfından çağrılan oku metoduna gönderdiğimiz sql cümleleri ile erişmekteyiz.
-
-# Installation 
-
-
-1- Import fuar_veri_tabani.sql database from repo to your MySQL. You can name that db as "fuar_veri_tabani" ;</br>
-2- In the solution folder Go to DigerSiniflar -> SQL.cs ;</br>
-3- Right at the top set the password of the connection methode to the one you use in your local MySQL;</br>
-4- Add your own information to the "yoneticiler" table of "fuar_veri_tabani" db and try to connect to fuarix from login page.</br></br>
-
+</br></br>
 <img src="https://github.com/Judy-Nkwama/fuarix_cSharp/blob/main/Screenshot%20(130).png" />
