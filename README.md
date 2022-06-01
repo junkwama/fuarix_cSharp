@@ -1,6 +1,6 @@
 # fuarix_cSharp
-
-<h2>FUARIX FUAR / KONFERANS SALONU OTOMASYONU</h2></br>
+<img src="https://github.com/Judy-Nkwama/fuarix_cSharp/blob/main/Screenshot%20(158).png" /></br>
+<h2>FUARIX FUAR / KONFERANS SALONU OTOMASYONU</h2>
 
 Otomasyonumuz; sempozyum, konferans, seminer, kongre ve forum gibi, katılımcıların katılması dahilinde gerçekleşen etkinliklere göz atma, haklarında bilgi sahibi olma ve programa üye olunma dahilinde istenilen etkinliğe bilet alınmasını sağlamaktadır.</br>
 
@@ -35,5 +35,4 @@ Veritabanına daha önceden kaydetmiş olduğumuz bazı konuşmacılar eklediği
 3- Right at the top set the password of the connection methode to the one you use in your local MySQL;</br>
 4- Add your own information to the "yoneticiler" table of "fuar_veri_tabani" db and try to connect to fuarix from login page.</br></br>
 
-<img src="https://github.com/Judy-Nkwama/fuarix_cSharp/blob/main/Screenshot%20(158).png" /></br>
 <img src="https://github.com/Judy-Nkwama/fuarix_cSharp/blob/main/Screenshot%20(130).png" />
