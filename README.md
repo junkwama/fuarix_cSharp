@@ -1,7 +1,5 @@
 # fuarix_cSharp
 
-<img src="https://github.com/Judy-Nkwama/fuarix_cSharp/blob/main/Screenshot%20(130).png" />
-
 # Installation 
 1- Import fuar_veri_tabani.sql database from repo to your MySQL. You can name that db as "fuar_veri_tabani" ;</br>
 2- In the solution folder Go to DigerSiniflar -> SQL.cs ;</br>
