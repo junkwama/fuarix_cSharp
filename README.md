@@ -1,5 +1,7 @@
 # fuarix_cSharp
 
+<img src="https://github.com/Judy-Nkwama/fuarix_cSharp/blob/main/Screenshot%20(130).png" />
+
 # Installation 
 1- Import fuar_veri_tabani.sql database from repo to your MySQL. You can name that db as "fuar_veri_tabani" ;</br>
 2- In the solution folder Go to DigerSiniflar -> SQL.cs ;</br>
@@ -33,4 +35,4 @@ Bahsettiğimiz verilere, formun .cs dosyasına eklediğimiz Sorgular sınıfınd
 Konuşmacılar</br>
 Veritabanına daha önceden kaydetmiş olduğumuz bazı konuşmacılar eklediğimiz sql cümleleri ile programa sağlanmaktadır. Her konuşmacının özellikleri, veritabanımızdaki 'konusmacilar' tablosundan çekilmekte olup programa yeni bir konuşmacı eklediğimizde, veritabanındaki bu tabloya ilgili alanlar ile kaydedilir. Her konuşmacının kendi id'si, ad, soyad, email, telefon ve diğer ayrıntılı bilgileri yer almaktadır. Bahsettiğimiz verilere, formun .cs dosyasına eklediğimiz Sorgular sınıfından çağrılan oku metoduna gönderdiğimiz sql cümleleri ile erişmekteyiz.
 </br></br>
-<img src="https://github.com/Judy-Nkwama/fuarix_cSharp/blob/main/Screenshot%20(130).png" />
+
